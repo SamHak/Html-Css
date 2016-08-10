@@ -1,0 +1,22 @@
+body {
+	background-color: #0E0ED9;
+}
+p {
+	font-size: 48px;
+	font-weight: bold;
+	text-align: center;
+	color: red;
+	background-color: gold;
+	color: #756719;
+	border: 12px solid #756719;
+	border-radius: 12px;
+}
+p:hover {
+	background-color: #756719;
+	color:white;
+}
+div{
+	font-size: 6em;
+	color: black;
+	font-weight: bold;
+}
